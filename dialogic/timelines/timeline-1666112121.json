@@ -1,0 +1,219 @@
+{
+	"events": [
+		{
+			"character": "character-1666111641.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Como se dice \"Perro\" en huichol?"
+		},
+		{
+			"choice": "Tsuku",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1666111641.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Muy bien!"
+		},
+		{
+			"definition": "1666112507-192",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"choice": "Dog",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1666111641.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Incorrecto!, Esto es en Ingles."
+		},
+		{
+			"definition": "1666112507-192",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_lower_limit": -1,
+			"random_upper_limit": 100,
+			"set_random": true,
+			"set_value": "1"
+		},
+		{
+			"choice": "Show me my score",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1666111641.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your score is [Answer]"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1666111641.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Como se dice \"Gallina\" en huichol?"
+		},
+		{
+			"choice": "Wakana",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1666111641.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Muy bien!"
+		},
+		{
+			"definition": "1666112507-192",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_lower_limit": 1,
+			"random_upper_limit": 100,
+			"set_random": true,
+			"set_value": "1"
+		},
+		{
+			"choice": "Gallina",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1666111641.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Incorrecto!, Esto es en Ingles."
+		},
+		{
+			"definition": "1666112507-192",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_lower_limit": -1,
+			"random_upper_limit": 100,
+			"set_random": true,
+			"set_value": "1"
+		},
+		{
+			"choice": "Show me my score",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1666111641.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your score is [Answer]"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1666111641.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Como se dice \"Gato\" en huichol?"
+		},
+		{
+			"choice": "Mitsu",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1666111641.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Muy bien!"
+		},
+		{
+			"definition": "1666112507-192",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_lower_limit": 1,
+			"random_upper_limit": 100,
+			"set_random": true,
+			"set_value": "1"
+		},
+		{
+			"choice": "Cat",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1666111641.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Incorrecto!, Esto es en Ingles."
+		},
+		{
+			"definition": "1666112507-192",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_lower_limit": -1,
+			"random_upper_limit": 100,
+			"set_random": true,
+			"set_value": "1"
+		},
+		{
+			"choice": "Show me my score",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1666111641.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Felicadades, Haz Ganado! [Answer]"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1666112121.json",
+		"name": "time2"
+	}
+}
